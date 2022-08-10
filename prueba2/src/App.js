@@ -38,6 +38,4 @@ export default App;
 
 //   var CryptoJS = require("crypto-js");
 
-//   const encrypted = CryptoJS.encrypt();
-//   console.log(encrypted);
-// }
+//   const encrypted = CryptoJS.encrypt(jdjdjdjdjdjjd
